@@ -1,19 +1,18 @@
 
 # These are supported funding model platforms
 
-github: # <iframe src="https://github.com/sponsors/tijuks/button" title="Sponsor tijuks" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>,
+github:  <iframe src="https://github.com/sponsors/tijuks/button" title="Sponsor tijuks" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>,
           <iframe src="https://github.com/sponsors/tijuks/card" title="Sponsor tijuks" height="225" width="600" style="border: 0;"></iframe>,
-https://github.com/sponsors/tijuks/card
-patreon: #@tijuks Replace with a single Patreon username
-open_collective: #tijuks
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: #tijuks
-liberapay: # tijuks
-issuehunt: # tijuks
-lfx_crowdfunding: # j with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: #tijuks
-buy_me_a_coffee: # tijuks 
-thanks_dev: # tijuks
-custom: #http://github.com/sponsors/tijuks
+https://github.com/spsors/tijuks/card
+patreon: tijuks
+open_collective: tijuks
+ko_fi:  tijuks
+tidelift: tijuks
+community_bridge: tijuks
+liberapay:  tijuks
+issuehunt:  tijuks
+lfx_crowdfunding: #
+buy_me_a_coffee: tijuks 
+thanks_dev:  tijuks
+custom: http://github.com/sponsors/tijuks
 l
