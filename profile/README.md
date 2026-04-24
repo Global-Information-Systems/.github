@@ -1,13 +1,9 @@
-## Hi there 👋
-
-<!--
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> ### 👤 GLOBAL INFORMATION SYSTEMS 
+> **Developer**
+>
+> ---
+> 🌐 [global.info-systems.com](https://global.info-systems.com)
+> 💻 [GitHub Sponsors](https://github.com/sponsors/tijuks)
+> 📘 [Facebook](https://facebook.com/George.macharia.547)
+> 🐦 [X (Twitter)](https://x.com/@geormach)
+> 📧 [wangarigeo@gmail.com](mailto:wangarigeo@gmail.com)
