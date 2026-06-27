@@ -1,6 +1,6 @@
 > ### 👤 GLOBAL INFORMATION SYSTEMS 
 > **Developer**
->
+>**tijuks**
 > ---
 > 🌐 [global.info-systems.com](https://global.info-systems.com)
 > 💻 [GitHub Sponsors](https://github.com/sponsors/tijuks)
